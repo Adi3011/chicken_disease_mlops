@@ -1,0 +1,3 @@
+# add a template.py file which will create your project structure
+# add the requirements.txt and setup.py file to create a local package for your project and install all the packages
+# add loggers in util init.py
