@@ -2,7 +2,7 @@
 # add the requirements.txt and setup.py file to create a local package for your project and install all the packages
 # add loggers in util init.py
 
-## workflows
+## workflows steps
 1. Update config.yaml
 2. update secrets.yaml (optional)
 3. update params.yaml
@@ -12,3 +12,9 @@
 7. update the pipeline
 8. update the main.py
 9. update the dvc.yaml 
+
+
+
+# workflow name
+1. Data Ingestion
+2. Prepare Base Model
