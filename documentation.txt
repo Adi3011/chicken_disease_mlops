@@ -1,3 +1,14 @@
 # add a template.py file which will create your project structure
 # add the requirements.txt and setup.py file to create a local package for your project and install all the packages
 # add loggers in util init.py
+
+## workflows
+1. Update config.yaml
+2. update secrets.yaml (optional)
+3. update params.yaml
+4. update the entity
+5. update the configuration manager in src config
+6. update the components
+7. update the pipeline
+8. update the main.py
+9. update the dvc.yaml 
