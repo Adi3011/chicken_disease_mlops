@@ -18,3 +18,5 @@
 # workflow name
 1. Data Ingestion
 2. Prepare Base Model
+3. Prepare Callbacks ( no need to create pipeline for this. will use it in training pipeline)
+4. Model Trainer (use the above callback here)
