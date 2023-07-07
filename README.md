@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/Adi3011/data_storage_/
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
