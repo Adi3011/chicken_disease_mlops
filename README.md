@@ -22,7 +22,7 @@ Clone the repository
 
 ```bash
 https://github.com/Adi3011/data_storage_.git
-https://github.com/Adi3011/chicken_disease_mlops.git
+
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
